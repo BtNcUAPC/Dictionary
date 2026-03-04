@@ -463,5 +463,9 @@
         "Need help?": "Потрібна допомога?",
         "Let's chat": "Давайте поспілкуємося",
 
-        "Do not include any private or sensitive information.": "Не вказуйте жодної приватної чи конфіденційної інформації."
+        "Do not include any private or sensitive information.": "Не вказуйте жодної приватної чи конфіденційної інформації.",
+
+        "Add more details": "Додати більше деталей",
+        "Capture screenshot": "Зробити знімок екрана",
+        "Attach file": "Додати файл" 
 }
