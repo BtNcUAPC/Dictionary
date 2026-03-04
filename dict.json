@@ -223,7 +223,7 @@
 
         "Session time limit reached": "Година безкоштовної трансляції минула",
         "Start a new session to continue playing.": "Розпочніть нову трансляцію, якщо бажаєте пограти ще.",
-        "Disconnected from game streaming session": "Завершено трансляцію Fortnite",
+        "Disconnected from game streaming session": "Трансляцію завершено",
         "You were inactive for too long.": "Через занадто довгу бездіяльність трансляцію завершено.",
 
         "You started cloud gaming on another device.": "Ви почали трансляцію на іншому пристрої.",
@@ -236,7 +236,7 @@
         "fps": "кадрів на секунду",
         "Optimized for Xbox Series X|S": "Опримізовано для Xbox Series X|S",
         
-        "Couldn't start your game streaming session": "Не вдалося розпочати трансляцію Fortnite",
+        "Couldn't start your game streaming session": "Не вдалося розпочати трансляцію",
         
         "Unable to communicate with servers. Please check your network connection.": "Немвє зв’язку з серверами Xbox. Будь ласка, перевірте інтернет-з’єднання.",
         "Unable to communicate with servers. Please try again.": "Немвє зв’язку з серверами Xbox. Будь ласка, спробуйте ще раз.",
