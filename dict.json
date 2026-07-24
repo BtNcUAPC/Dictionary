@@ -486,5 +486,12 @@
         "*Select games. Excludes Call of Duty titles.": "*Вибрані ігри. Без day one релізів Call of Duty.",
         "Play with Game Pass": "Грати ігри Game Pass",
 
-        "1 hour of ad-supported playtime per session": "Година безкоштовної трансляції з рекламою"
+        "1 hour of ad-supported playtime per session": "Година безкоштовної трансляції з рекламою",
+
+        "Show in store": "Відкрити в Store",
+        "Purchase required": "Потрібна покупка", 
+        "Choose Edition": "Вибрати видання", 
+        "available": "доступно",
+        "Included in Ultimate": "Доступно з Ultimate",
+        "Included in Essential": "Доступно з Essential"
 }
